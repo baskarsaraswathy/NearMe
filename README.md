@@ -41,11 +41,11 @@ map.html
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
-<area shape="rect" coords="1000,260,70,50" href="home.html" title="My Home Town">
-<area shape="rect" coords="330,400,200,150" href="Gingee.html" title="Gingee Fort">
-<area shape="rect" coords="750,45,100,100" href="Senji.html" title="Senji fort">
-<area shape="rect" coords="1200,500,300,400" href="Ponpatti.html" title="Ponpatti">
-<area shape="rect" coords="1400,350,100,200" href="Jain.html" title=" jain Bhavan">
+<area shape="rect" coords="800,180,850,250" href="home.html" title="My Home Town">
+<area shape="rect" coords="170,220,250,300" href="Gingee.html" title="Gingee Fort">
+<area shape="rect" coords="500,30,550,70" href="Senji.html" title="Senji fort">
+<area shape="rect" coords="1100,450,1200,500" href="Ponpatti.html" title="Ponpatti">
+<area shape="rect" coords="1320,280,1370,320" href="Jain.html" title=" jain Bhavan">
 </map>
 </center>
 </body>
